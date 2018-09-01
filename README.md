@@ -6,7 +6,7 @@
 
 
 **ONLY DOWNLOAD IT FROM THE GIVEN OFFICIAL  LINK , DO NOT TRUST IN OTHER PLACES.**
-- **github** https://github.com/softaim/RPT
+- **github** https://github.com/softaim/EGL
 - **website**  https://gkaim.com/eject-geo-locator-vikas-chaudhary/ ‎
 
 ## What can Tool Provide you 
