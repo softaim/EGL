@@ -1,4 +1,4 @@
-# EGL => Eject Geo-Locator 
+# EGL => Exact Geo-Locator 
 
 - **EGL Coded by =>** Vikas Chaudhary
 - **Published By =>** www.gkaim.com
