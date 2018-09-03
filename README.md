@@ -7,7 +7,7 @@
 
 **ONLY DOWNLOAD IT FROM THE GIVEN OFFICIAL  LINK , DO NOT TRUST IN OTHER PLACES.**
 - **github** https://github.com/softaim/EGL
-- **website**  https://gkaim.com/eject-geo-locator-vikas-chaudhary/ ‎
+- **website**  https://gkaim.com/exact-geo-locator-vikas-chaudhary/ ‎
 
 ## What can Tool Provide you 
 - Continent
@@ -58,7 +58,7 @@ $ Send Generated Link to Target
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-EGL ( Eject Geo-Loacator ) is  Coded by vikas Chaudhary is Just only for Educational Purpose , So please Don't use it for any Illigel Purpose otherwise only You will be Responsible for it...
+EGL ( Exact Geo-Loacator ) is  Coded by vikas Chaudhary is Just only for Educational Purpose , So please Don't use it for any Illigel Purpose otherwise only You will be Responsible for it...
 Using interface is very simple , you have to run the tool and send the generated link to Target , you will get all info about it 
 
 
